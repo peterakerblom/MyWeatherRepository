@@ -1,0 +1,14 @@
+C:\Users\peter\source\repos\WhatsTheWeather\WhatsTheWeatherDesktopApp\bin\Debug\WhatsTheWeatherDesktopApp.exe.config
+C:\Users\peter\source\repos\WhatsTheWeather\WhatsTheWeatherDesktopApp\bin\Debug\WhatsTheWeatherDesktopApp.exe
+C:\Users\peter\source\repos\WhatsTheWeather\WhatsTheWeatherDesktopApp\bin\Debug\WhatsTheWeatherDesktopApp.pdb
+C:\Users\peter\source\repos\WhatsTheWeather\WhatsTheWeatherDesktopApp\bin\Debug\WeatherService.dll
+C:\Users\peter\source\repos\WhatsTheWeather\WhatsTheWeatherDesktopApp\bin\Debug\WeatherService.pdb
+C:\Users\peter\source\repos\WhatsTheWeather\WhatsTheWeatherDesktopApp\bin\Debug\WeatherService.dll.config
+C:\Users\peter\source\repos\WhatsTheWeather\WhatsTheWeatherDesktopApp\obj\Debug\WhatsTheWeatherDesktopApp.csprojAssemblyReference.cache
+C:\Users\peter\source\repos\WhatsTheWeather\WhatsTheWeatherDesktopApp\obj\Debug\WhatsTheWeatherDesktopApp.MainWindow.resources
+C:\Users\peter\source\repos\WhatsTheWeather\WhatsTheWeatherDesktopApp\obj\Debug\WhatsTheWeatherDesktopApp.Properties.Resources.resources
+C:\Users\peter\source\repos\WhatsTheWeather\WhatsTheWeatherDesktopApp\obj\Debug\WhatsTheWeatherDesktopApp.csproj.GenerateResource.cache
+C:\Users\peter\source\repos\WhatsTheWeather\WhatsTheWeatherDesktopApp\obj\Debug\WhatsTheWeatherDesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\WhatsTheWeather\WhatsTheWeatherDesktopApp\obj\Debug\WhatsTheWeatherDesktopApp.csproj.CopyComplete
+C:\Users\peter\source\repos\WhatsTheWeather\WhatsTheWeatherDesktopApp\obj\Debug\WhatsTheWeatherDesktopApp.exe
+C:\Users\peter\source\repos\WhatsTheWeather\WhatsTheWeatherDesktopApp\obj\Debug\WhatsTheWeatherDesktopApp.pdb
