@@ -11,12 +11,20 @@ namespace WhatsTheWeatherDesktopApp
 
     class Controller
     {
-        WeatherDAO wa = new WeatherDAO();
+        
+        
 
         public string GetHelloWorld()
         {
-            string hello = wa.WeatherHelloWorld();
+            string hello = "HelloWorld";
             return hello;
+        }
+
+        public WeatherDAO GetWeather(string tempCity)
+        {
+            WeatherDAO wa = new WeatherDAO(tempCity);
+            wa.CheckWeather();
+            return wa;
         }
     }
 }

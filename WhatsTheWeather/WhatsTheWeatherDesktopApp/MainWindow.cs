@@ -13,6 +13,7 @@ namespace WhatsTheWeatherDesktopApp
     public partial class MainWindow : Form
     {
         Controller c = new Controller();
+        WeatherDAO weatherDAO = new WeatherDAO();
         public MainWindow()
         {
             InitializeComponent();
@@ -22,5 +23,16 @@ namespace WhatsTheWeatherDesktopApp
         {
             resultTextBox.Text = c.GetHelloWorld();
         }
+
+        private void getDataBtn_Click(object sender, EventArgs e)
+        {
+            string city = enterCityTextBox.Text;
+            weatherDAO = c.GetWeather(city);
+            resultTextBox.Text = weatherDAO.Temp.ToString();
+        }
+
+        // WeatherData WarsawWeather = new WeatherData("Warsaw");
+        //WarsawWeather.CheckWeather();
+        //System.Console.WriteLine(WarsawWeather.Temp);
     }
 }

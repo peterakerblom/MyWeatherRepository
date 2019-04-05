@@ -59,13 +59,15 @@
             this.getDataBtn.TabIndex = 2;
             this.getDataBtn.Text = "Get Data";
             this.getDataBtn.UseVisualStyleBackColor = true;
+            this.getDataBtn.Click += new System.EventHandler(this.getDataBtn_Click);
             // 
             // resultTextBox
             // 
+            this.resultTextBox.Font = new System.Drawing.Font("Bahnschrift Light Condensed", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.resultTextBox.Location = new System.Drawing.Point(416, 23);
             this.resultTextBox.Multiline = true;
             this.resultTextBox.Name = "resultTextBox";
-            this.resultTextBox.Size = new System.Drawing.Size(356, 401);
+            this.resultTextBox.Size = new System.Drawing.Size(202, 58);
             this.resultTextBox.TabIndex = 3;
             // 
             // helloWorldBtn

@@ -52,10 +52,11 @@ namespace WhatsTheWeatherDesktopApp
 
         public float GetTemp()
         {
+            System.Globalization.CultureInfo usCulture = System.Globalization.CultureInfo.CreateSpecificCulture("en-US");
             XmlNode temp_node = xmlDocument.SelectSingleNode("//temperature");
             XmlAttribute temp_value = temp_node.Attributes["value"];
             string temp_string = temp_value.Value;
-            return float.Parse(temp_string);
+            return float.Parse(temp_string, usCulture);
         }
 
         private const string APIKEY = "f83067ab6f4665f0d882b861dc4cc49f";

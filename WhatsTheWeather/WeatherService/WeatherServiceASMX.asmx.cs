@@ -36,5 +36,6 @@ namespace WeatherService
                 // kolla: https://codereview.stackexchange.com/questions/150981/getting-weather-data-from-open-weather-map-api;
             }
         }
+
     }
 }
